@@ -1,0 +1,7 @@
+python==3.9.9
+dlib==19.22.0
+mediapipe==0.8.9
+opencv-contrib-python=4.5.4.60
+opencv-python==4.5.3.56
+numpy==1.1.0
+pynput==1.7.5
